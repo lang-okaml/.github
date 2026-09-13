@@ -19,3 +19,9 @@
 <p align="center">
 <a href="">Documentation</a> | <a href="">Website</a>
 </p>
+
+
+<p align='center'>
+<img src='no-ai-badge.jpg' alt="No AI - badge" style="width: 100%; height: auto;">
+<img src='tiredaf.gif' alt="Tired AF of..." style="width: 100%">
+</p>
